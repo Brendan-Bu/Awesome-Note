@@ -1,0 +1,10 @@
+|序号|基本组合形式|
+|:--:|:--:|
+|1|AND-OR|
+|2|NOR-OR|
+|3|OR-NAND|
+|4|NAND-NAND|
+|5|OR-AND|
+|6|NOR-NOR|
+|7|AND-NOR|
+|8|NAND-AND|
